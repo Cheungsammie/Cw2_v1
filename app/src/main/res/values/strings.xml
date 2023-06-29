@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cw2_v1</string>
+    <string name="title_about">About</string>
+    <string name="title_home">Home></string>
+    <string name="title_promotion">Promotion</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
